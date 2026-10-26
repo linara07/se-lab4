@@ -1,0 +1,3 @@
+# TC06 - Primary store fails
+GT4500,5,1,5,0
+TORPEDO,SINGLE

@@ -1,0 +1,3 @@
+# TC13 - Both stores fail
+GT4500,5,1,5,1
+TORPEDO,ALL
