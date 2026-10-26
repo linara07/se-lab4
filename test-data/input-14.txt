@@ -1,0 +1,5 @@
+# TC14 - Primary store fires twice because secondary is empty
+GT4500,2,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
